@@ -1,0 +1,427 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/1X7vow16X7CnCoexXh4H4F2yDJv.jpg",
+            "id": 466420,
+            "title": "Killers of the Flower Moon",
+            "original_language": "en",
+            "original_title": "Killers of the Flower Moon",
+            "overview": "When oil is discovered in 1920s Oklahoma under Osage Nation land, the Osage people are murdered one by one\u2014until the FBI steps in to unravel the mystery.",
+            "poster_path": "/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+                80,
+                18,
+                36
+            ],
+            "popularity": 2057.537,
+            "release_date": "2023-10-18",
+            "video": false,
+            "vote_average": 7.671,
+            "vote_count": 1333
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/z6OkT7XjzSrgstiTlld0jUvME9y.jpg",
+            "id": 726209,
+            "title": "Leave the World Behind",
+            "original_language": "en",
+            "original_title": "Leave the World Behind",
+            "overview": "A family's getaway to a luxurious rental home takes an ominous turn when a cyberattack knocks out their devices \u2014 and two strangers appear at their door.",
+            "poster_path": "/29rhl1xopxA7JlGVVsf1UHfYPvN.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+                18,
+                9648,
+                53,
+                878
+            ],
+            "popularity": 731.384,
+            "release_date": "2023-11-22",
+            "video": false,
+            "vote_average": 6.686,
+            "vote_count": 525
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fm6KqXpk3M2HVveHwCrBSSBaO0V.jpg",
+            "id": 872585,
+            "title": "Oppenheimer",
+            "original_language": "en",
+            "original_title": "Oppenheimer",
+            "overview": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
+            "poster_path": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "popularity": 898.326,
+            "release_date": "2023-07-19",
+            "video": false,
+            "vote_average": 8.137,
+            "vote_count": 5360
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8GnWDLn2AhnmkQ7hlQ9NJUYobSS.jpg",
+            "id": 695721,
+            "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+            "original_language": "en",
+            "original_title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+            "overview": "64 years before he becomes the tyrannical president of Panem, Coriolanus Snow sees a chance for a change in fortunes when he mentors Lucy Gray Baird, the female tribute from District 12.",
+            "poster_path": "/mBaXZ95R2OxueZhvQbcEWy2DqyO.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+                28,
+                10749,
+                18
+            ],
+            "popularity": 619.834,
+            "release_date": "2023-11-15",
+            "video": false,
+            "vote_average": 7.271,
+            "vote_count": 681
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yOm993lsJyPmBodlYjgpPwBjXP9.jpg",
+            "id": 787699,
+            "title": "Wonka",
+            "original_language": "en",
+            "original_title": "Wonka",
+            "overview": "Willy Wonka \u2013 chock-full of ideas and determined to change the world one delectable bite at a time \u2013 is proof that the best things in life begin with a dream, and if you\u2019re lucky enough to meet Willy Wonka, anything is possible.",
+            "poster_path": "/qhb1qOilapbapxWQn9jtRCMwXJF.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+                35,
+                10751,
+                14
+            ],
+            "popularity": 1117.04,
+            "release_date": "2023-12-06",
+            "video": false,
+            "vote_average": 7.11,
+            "vote_count": 109
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/feSiISwgEpVzR1v3zv2n2AU4ANJ.jpg",
+            "id": 609681,
+            "title": "The Marvels",
+            "original_language": "en",
+            "original_title": "The Marvels",
+            "overview": "Carol Danvers, aka Captain Marvel, has reclaimed her identity from the tyrannical Kree and taken revenge on the Supreme Intelligence. But unintended consequences see Carol shouldering the burden of a destabilized universe. When her duties send her to an anomalous wormhole linked to a Kree revolutionary, her powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol\u2019s estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe.",
+            "poster_path": "/Ag3D9qXjhJ2FUkrlJ0Cv1pgxqYQ.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+                878,
+                12,
+                28
+            ],
+            "popularity": 499.118,
+            "release_date": "2023-11-08",
+            "video": false,
+            "vote_average": 6.537,
+            "vote_count": 668
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kjQBrc00fB2RjHZB3PGR4w9ibpz.jpg",
+            "id": 670292,
+            "title": "The Creator",
+            "original_language": "en",
+            "original_title": "The Creator",
+            "overview": "Amid a future war between the human race and the forces of artificial intelligence, a hardened ex-special forces agent grieving the disappearance of his wife, is recruited to hunt down and kill the Creator, the elusive architect of advanced AI who has developed a mysterious weapon with the power to end the war\u2014and mankind itself.",
+            "poster_path": "/vBZ0qvaRxqEhZwl6LWmruJqWE8Z.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+                28,
+                12,
+                18
+            ],
+            "popularity": 606.742,
+            "release_date": "2023-09-27",
+            "video": false,
+            "vote_average": 7.114,
+            "vote_count": 1405
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/t5zCBSB5xMDKcDqe91qahCOUYVV.jpg",
+            "id": 507089,
+            "title": "Five Nights at Freddy's",
+            "original_language": "en",
+            "original_title": "Five Nights at Freddy's",
+            "overview": "Recently fired and desperate for work, a troubled young man named Mike agrees to take a position as a night security guard at an abandoned theme restaurant: Freddy Fazbear's Pizzeria. But he soon discovers that nothing at Freddy's is what it seems.",
+            "poster_path": "/7BpNtNfxuocYEVREzVMO75hso1l.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "popularity": 662.586,
+            "release_date": "2023-10-25",
+            "video": false,
+            "vote_average": 7.832,
+            "vote_count": 2770
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/35z8hWuzfFUZQaYog8E9LsXW3iI.jpg",
+            "id": 335977,
+            "title": "Indiana Jones and the Dial of Destiny",
+            "original_language": "en",
+            "original_title": "Indiana Jones and the Dial of Destiny",
+            "overview": "Finding himself in a new era, and approaching retirement, Indy wrestles with fitting into a world that seems to have outgrown him. But as the tentacles of an all-too-familiar evil return in the form of an old rival, Indy must don his hat and pick up his whip once more to make sure an ancient and powerful artifact doesn't fall into the wrong hands.",
+            "poster_path": "/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+                12,
+                28
+            ],
+            "popularity": 279.593,
+            "release_date": "2023-06-28",
+            "video": false,
+            "vote_average": 6.685,
+            "vote_count": 2214
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/f1AQhx6ZfGhPZFTVKgxG91PhEYc.jpg",
+            "id": 753342,
+            "title": "Napoleon",
+            "original_language": "en",
+            "original_title": "Napoleon",
+            "overview": "An epic that details the checkered rise and fall of French Emperor Napoleon Bonaparte and his relentless journey to power through the prism of his addictive, volatile relationship with his wife, Josephine.",
+            "poster_path": "/jE5o7y9K6pZtWNNMEw3IdpHuncR.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+                18,
+                36,
+                10752
+            ],
+            "popularity": 299.411,
+            "release_date": "2023-11-22",
+            "video": false,
+            "vote_average": 6.451,
+            "vote_count": 690
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/k1KrbaCMACQiq7EA0Yhw3bdzMv7.jpg",
+            "id": 901362,
+            "title": "Trolls Band Together",
+            "original_language": "en",
+            "original_title": "Trolls Band Together",
+            "overview": "When Branch's brother, Floyd, is kidnapped for his musical talents by a pair of nefarious pop-star villains, Branch and Poppy embark on a harrowing and emotional journey to reunite the other brothers and rescue Floyd from a fate even worse than pop-culture obscurity.",
+            "poster_path": "/sEaLO9s7CIN3fjz8R3Qksum44en.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+                16,
+                10751,
+                10402,
+                14,
+                35
+            ],
+            "popularity": 1125.208,
+            "release_date": "2023-10-12",
+            "video": false,
+            "vote_average": 7.158,
+            "vote_count": 341
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sp6egj5NHHRGmCMdIoTNdbLwACR.jpg",
+            "id": 1022964,
+            "title": "Candy Cane Lane",
+            "original_language": "en",
+            "original_title": "Candy Cane Lane",
+            "overview": "A man, determined to win the neighborhood's annual Christmas decorating contest, makes a pact with an elf to help him win. However, the elf casts a spell bringing the twelve days of Christmas to life, bringing chaos to the small, unsuspecting town.",
+            "poster_path": "/2pYgOBtBaFxAELQGj6p86vuIhhG.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+                35,
+                14,
+                10751
+            ],
+            "popularity": 279.136,
+            "release_date": "2023-11-29",
+            "video": false,
+            "vote_average": 6.425,
+            "vote_count": 159
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ctMserH8g2SeOAnCw5gFjdQF8mo.jpg",
+            "id": 346698,
+            "title": "Barbie",
+            "original_language": "en",
+            "original_title": "Barbie",
+            "overview": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+            "poster_path": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+                35,
+                12,
+                14
+            ],
+            "popularity": 387.458,
+            "release_date": "2023-07-19",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 6236
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9PqD3wSIjntyJDBzMNuxuKHwpUD.jpg",
+            "id": 1075794,
+            "title": "Leo",
+            "original_language": "en",
+            "original_title": "Leo",
+            "overview": "Jaded 74-year-old lizard Leo has been stuck in the same Florida classroom for decades with his terrarium-mate turtle. When he learns he only has one year left to live, he plans to escape to experience life on the outside but instead gets caught up in the problems of his anxious students \u2014 including an impossibly mean substitute teacher.",
+            "poster_path": "/pD6sL4vntUOXHmuvJPPZAgvyfd9.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+                16,
+                35,
+                10751
+            ],
+            "popularity": 901.52,
+            "release_date": "2023-11-17",
+            "video": false,
+            "vote_average": 7.611,
+            "vote_count": 525
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bWIIWhnaoWx3FTVXv6GkYDv3djL.jpg",
+            "id": 940721,
+            "title": "Godzilla Minus One",
+            "original_language": "ja",
+            "original_title": "\u30b4\u30b8\u30e9-1.0",
+            "overview": "In postwar Japan, a new terror rises. Will the devastated people be able to survive... let alone fight back?",
+            "poster_path": "/hkxxMIGaiCTmrEArK7J56JTKUlB.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+                878,
+                27,
+                28
+            ],
+            "popularity": 432.589,
+            "release_date": "2023-11-03",
+            "video": false,
+            "vote_average": 8.282,
+            "vote_count": 108
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fc2pEZgr0ltmyzLl4cO9JInOg6l.jpg",
+            "id": 798021,
+            "title": "Family Switch",
+            "original_language": "en",
+            "original_title": "Family Switch",
+            "overview": "When the Walker family members switch bodies with each other during a rare planetary alignment, their hilarious journey to find their way back to normal will bring them closer together than they ever thought possible.",
+            "poster_path": "/fnRUCA0fjEb3kuIaTGogL7425IC.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+                35,
+                14,
+                10751
+            ],
+            "popularity": 249.51,
+            "release_date": "2023-11-30",
+            "video": false,
+            "vote_average": 6.486,
+            "vote_count": 258
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/a21obwG9qMSf1qa6oG4ZgpOyMaA.jpg",
+            "id": 870358,
+            "title": "Merry Little Batman",
+            "original_language": "en",
+            "original_title": "Merry Little Batman",
+            "overview": "This Christmas, Damian Wayne wants to be a superhero like his dad \u2013 the one and only Batman. When Damian is left home alone while Batman takes on Gotham\u2019s worst supervillains on Christmas Eve, he stumbles upon a villainous plot to steal Christmas and leaps at the chance to save the day.",
+            "poster_path": "/2J70guF8wcErbYbRgZUBcvShgI1.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+                16,
+                28,
+                10751,
+                35
+            ],
+            "popularity": 201.033,
+            "release_date": "2023-12-08",
+            "video": false,
+            "vote_average": 6.679,
+            "vote_count": 39
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/628Dep6AxEtDxjZoGP78TsOxYbK.jpg",
+            "id": 575264,
+            "title": "Mission: Impossible - Dead Reckoning Part One",
+            "original_language": "en",
+            "original_title": "Mission: Impossible - Dead Reckoning Part One",
+            "overview": "Ethan Hunt and his IMF team embark on their most dangerous mission yet: To track down a terrifying new weapon that threatens all of humanity before it falls into the wrong hands. With control of the future and the world's fate at stake and dark forces from Ethan's past closing in, a deadly race around the globe begins. Confronted by a mysterious, all-powerful enemy, Ethan must consider that nothing can matter more than his mission\u2014not even the lives of those he cares about most.",
+            "poster_path": "/NNxYkU70HPurnNCSiCjYAmacwm.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "popularity": 502.407,
+            "release_date": "2023-07-08",
+            "video": false,
+            "vote_average": 7.588,
+            "vote_count": 2676
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ehumsuIBbgAe1hg343oszCLrAfI.jpg",
+            "id": 1022796,
+            "title": "Wish",
+            "original_language": "en",
+            "original_title": "Wish",
+            "overview": "Asha, a sharp-witted idealist, makes a wish so powerful that it is answered by a cosmic force \u2013 a little ball of boundless energy called Star. Together, Asha and Star confront a most formidable foe - the ruler of Rosas, King Magnifico - to save her community and prove that when the will of one courageous human connects with the magic of the stars, wondrous things can happen.",
+            "poster_path": "/AcoVfiv1rrWOmAdpnAMnM56ki19.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+                16,
+                10751,
+                14,
+                12
+            ],
+            "popularity": 293.395,
+            "release_date": "2023-11-13",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 108
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/97MOhHIgU6ZdLcB9DrAhx3WAqrU.jpg",
+            "id": 839369,
+            "title": "May December",
+            "original_language": "en",
+            "original_title": "May December",
+            "overview": "Twenty years after their notorious tabloid romance gripped the nation, a married couple buckles under pressure when an actress arrives to do research for a film about their past.",
+            "poster_path": "/yibtHDMO70RueiEmtrcJeTiiHFo.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "popularity": 153.095,
+            "release_date": "2023-11-16",
+            "video": false,
+            "vote_average": 6.694,
+            "vote_count": 90
+        }
+    ],
+    "total_pages": 1000,
+    "total_results": 20000
+}
