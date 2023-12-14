@@ -152,7 +152,7 @@ def main():
             content = open_cache(CACHE_RATED)
             for element in genre["genres"]:
                 print(element["name"])
-
+            print("")
             genre_name = input("Please choose the genre you want: ")
             number = int(input("Please enter how many movies in the list you want to show? "))
             for element in genre["genres"]:
